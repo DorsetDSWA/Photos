@@ -1,7 +1,7 @@
 # Github Pages Gallery
 Host your photo/video gallery in Github pages easily using Thumbsup & Github Actions for free.
-
-https://dorsetdswa.github.io/Photos/
+[
+[https://dorsetdswa.github.io/Photos/](https://dorsetdswa.github.io/photo-gallery/)](https://dorsetdswa.github.io/photo-gallery/)
 
 ### Why this project?
 This project contains starter code for anyone who wants to deploy his/her photo/video galery on Github Pages,
